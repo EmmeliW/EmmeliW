@@ -1,4 +1,10 @@
-# Hey you! 
+# Hey you, ✨ i´m Emmeli!
+***
+
+I am a *web developer* in training, currently studying on **Mid Sweden University**.
+
+
+
 
 <!--
 **EmmeliW/EmmeliW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
